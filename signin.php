@@ -38,7 +38,7 @@
             <?php } ?>  
 
             <div class="row justify-content-md-center">
-                <div class="col-lg-6  col-sm">
+                <div class="col-lg-4  col-sm">
                     <div class="mb-3">
                         <label for="email" class="form-label">Email address</label>
                         <input type="email" class="form-control" name="email" aria-describedby="email">

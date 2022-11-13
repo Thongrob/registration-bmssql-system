@@ -22,7 +22,7 @@
         <h3 class="mt-4">สมัครสมาชิก</h3>
         <hr>
         <div class="row justify-content-md-center">
-            <form action="signup_db.php" method="post" class="col-lg-6 col-sm">
+            <form action="signup_db.php" method="post" class="col-lg-4 col-sm">
                 <?php if(isset($_SESSION['error'])) { ?>
                     <div class="alert alert-danger" role="alert">
                         <?php 
